@@ -8,6 +8,11 @@
 </ul>
 <hr/>
 <h5>Live Demo: Coming soon</h5>
+<h4>YouTube Videos</h4>
+<ul>
+    <li>Frontend: https://youtu.be/m1m-W1PAyRs</li>
+    <li>Backend: Coming Soon</li>
+</ul>
 <hr/>
 <h5>
     USD Price: $50<br/>
