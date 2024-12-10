@@ -7,7 +7,7 @@
     <li>Patient Panel with a Dashboard from where Patient can See his appointment list and manage his profile also</li>
 </ul>
 <hr/>
-<h5>Live Demo: Coming soon</h5>
+<h5>Live Demo: https://demos.codeartisanlab.in/clinic_system/frontend/</h5>
 <h4>YouTube Videos</h4>
 <ul>
     <li>Frontend: https://youtu.be/m1m-W1PAyRs</li>
