@@ -14,10 +14,10 @@
     <li>Backend: Coming Soon</li>
 </ul>
 <hr/>
-<h5>
-    USD Price: $50<br/>
-    INR Price: 4200
-</h5>
+<h4>
+    <p>USD Price: $15</p>
+    <p>INR Price: 1200</p>
+</h4>
 </hr>
 <ul>
     <li><a href="https://paypal.me/codeartisanlab">PayPal</a></li>
