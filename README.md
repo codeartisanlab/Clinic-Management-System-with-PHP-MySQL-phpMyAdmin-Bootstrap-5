@@ -10,7 +10,7 @@
 <h5>Live Demo: Coming soon</h5>
 <hr/>
 <h5>
-    USD Price: $50
+    USD Price: $50<br/>
     INR Price: 4200
 </h5>
 </hr>
