@@ -11,7 +11,7 @@
 <h4>YouTube Videos</h4>
 <ul>
     <li>Frontend: https://youtu.be/m1m-W1PAyRs</li>
-    <li>Backend: https://www.youtube.com/watch?v=XA_4BEBb37Q</li>
+    <li>Backend: https://youtu.be/XA_4BEBb37Q</li>
 </ul>
 <hr/>
 <h4>
